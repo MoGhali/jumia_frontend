@@ -7,6 +7,7 @@
  cd /test-app/
  
  2- Install all npm modules needed to run this project.
+ 
  npm install
  
  3- Build docker image using below commands.
