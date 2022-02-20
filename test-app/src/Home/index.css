@@ -1,0 +1,11 @@
+.tableHolder {
+    padding: 35px;
+}
+
+.topDivHolder {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+    padding-top: 20px;
+    margin: 0px 25px;
+}
